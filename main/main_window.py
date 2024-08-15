@@ -1,3 +1,7 @@
+#**************************************
+# https://github.com/AryanJAryanJ-droid
+#**************************************
+
 import pyglet
 from connection_check import check
 from image_button import ImageButton
@@ -55,3 +59,8 @@ def on_mouse_press(x, y, button_code, modifiers):
 def reset_button(dt):
     button.set_clicked(False)
 pyglet.app.run()
+
+
+#**************************************
+# https://github.com/AryanJAryanJ-droid
+#**************************************
