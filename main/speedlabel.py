@@ -1,3 +1,7 @@
+#**************************************
+# https://github.com/AryanJAryanJ-droid
+#**************************************
+
 import pyglet
 
 class LabelChanger:
