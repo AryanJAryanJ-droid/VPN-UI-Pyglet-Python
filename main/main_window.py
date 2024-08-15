@@ -8,7 +8,7 @@ from image_button import ImageButton
 from speedlabel import LabelChanger
 
 
-background_image = pyglet.image.load('C:\\Users\\Aryan\\Desktop\\Project VPN\\UI Elements\\BGIMG.jpg')
+background_image = pyglet.image.load('BGIMG.jpg')
 
 WINDOW_WIDTH = 800
 WINDOW_HEIGHT = 600
