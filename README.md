@@ -9,3 +9,5 @@ Feel free to make changes :)
   **requests** (pip install requests)
 
 **In Vs code, Open the main folder and then open the "main_window.py" for execution**  
+
+The application also displays whether the internet is connected to windows. 
